@@ -9,4 +9,4 @@ echo yes | sudo docker container prune
 #echo yes | sudo docker image prune -a
 sudo dockerd
 sudo docker build . -t flix
-sudo docker run -p 61:61 flix
+sudo docker run -p 62:62 flix
