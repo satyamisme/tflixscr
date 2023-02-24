@@ -1,0 +1,4 @@
+schedule
+telebot
+beautifulsoup4
+requests
